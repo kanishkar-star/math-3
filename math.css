@@ -1,0 +1,31 @@
+#welcome{
+    margin-top: -480px;
+    margin-left: 17%;
+}
+#name{
+    margin-top: -300px;
+    margin-left: 14%;
+}
+#img{
+    margin-top: 480px;
+    margin-left: 25%;
+    width:150px;
+}
+#body_background
+{
+	background: rgb(123, 180, 138);
+}
+#body_background_2
+{
+	background:  #ce4a4a;
+}
+#output{
+    background : white;
+    border-radius : 10px;
+    border-top : 10px solid #AA4465;
+    padding:10px;
+    float:none;
+    text-align:left;
+}
+
+
